@@ -1,0 +1,50 @@
+body{
+			background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/26/92/0KH5pV.jpg);
+		}
+		h1{
+			text-align: center;
+			color: white;
+			size: 20px;
+		}
+		h3{
+			text-transform: uppercase;
+		}
+		#para{
+			color: yellow;
+		}
+		div{
+			float: right;
+		}
+		table{
+			text-align: center;
+			border-collapse: separate;
+			align-items: right;
+			margin-right: 100px;
+
+
+			
+		}
+		td{
+			padding-left: 40px;
+			padding-bottom: 20px;
+		}
+		.buttons{
+			display: flex;
+    		justify-content: left;
+    		align-items: left; 
+		}
+		button{
+			background-color: lightpink;
+			border-radius: 20px;
+			border:none;
+			background: none;
+		     
+		     cursor: pointer;
+		}
+		button:hover{
+			cursor: pointer;
+
+		}
+		.head{
+			margin-right: 100px;
+		}
